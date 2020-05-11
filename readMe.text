@@ -1,0 +1,5 @@
+1:项目初始化 npm i生成package.json
+2:项目安装webpack cnpm install -g webpack
+3:工具
+    1：glob -- npm install glob -save-dev
+       glob 在webpack中对文件的路径处理非常之方便，比如当搭建多页面应用时就可以使用glob对页面需要打包文件的路径进行很好的处理。
